@@ -52,6 +52,9 @@ ExportedObj/
 *.pdb.meta
 *.mdb.meta
 
+#eandebug lets try to get rid of all of the meta files
+*.meta
+
 # Unity3D generated file on crash reports
 sysinfo.txt
 

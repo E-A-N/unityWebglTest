@@ -347,7 +347,7 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/home/ean/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/ean/Unity/Hub/Editor/2022.3.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/MouseMovement.cs"
+"Assets/Scripts/movement.cs"
 -langversion:9.0
 
 /deterministic
