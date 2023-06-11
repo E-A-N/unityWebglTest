@@ -261,3 +261,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 966.210982 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(3067e9aa2657fa0a0b4e6fae70df0ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3067e9aa2657fa0a0b4e6fae70df0ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c06b20ccba94b0c0c8f02a541f48a83') in 0.002086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.706192 seconds.
+  path: Assets/Scripts/MouseMovement.cs
+  artifactKey: Guid(494a7869347d85d4cb966d014e6b6885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MouseMovement.cs using Guid(494a7869347d85d4cb966d014e6b6885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a29f30b074179730b5e12978278b9a5') in 0.000360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
